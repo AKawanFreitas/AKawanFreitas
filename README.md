@@ -4,6 +4,8 @@
 
 Desenvolvedor full-stack e desenvolvedor de automações. Formado em Ciência da Computação pela UFC. Atualmente na [Starke Vision](https://github.com/starkevisionwebservices), construindo sistemas sob medida, automações e aplicações com IA.
 
+<img src="./profile-3d-contrib/profile-night-green.svg" alt="Contribuições 3D" width="100%">
+
 ---
 
 ### Stack
